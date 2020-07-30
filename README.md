@@ -7,4 +7,4 @@ It allows you to
 - Check genres
 - Know facts about the fest.
 
-#check index.html
+# check index.html
