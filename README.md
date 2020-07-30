@@ -3,8 +3,8 @@
 ### Implemented using html css and ajax
 
 It allows you to
--Register
--Check genres
--Know facts about the fest.
+- Register
+- Check genres
+- Know facts about the fest.
 
 #check index.html
